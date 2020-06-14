@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "596683157622",
+    "firebase_url": "https://fmovies-e9350.firebaseio.com",
+    "project_id": "fmovies-e9350",
+    "storage_bucket": "fmovies-e9350.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596683157622:android:c1b24b2d631ef509c62f57",
+        "android_client_info": {
+          "package_name": "com.fmovies2020.freemovies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596683157622-qpjt9b9nmsdvfsi3mt471n8i9s54kk2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP6EfXoMgBP1j71akL6CFTYm86XWzN-fk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596683157622-qpjt9b9nmsdvfsi3mt471n8i9s54kk2q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
